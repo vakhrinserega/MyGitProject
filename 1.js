@@ -1,5 +1,5 @@
-function addNumber (a,b){
+function DeductNumber (a,b){
 	
-return a+b;
+return a-b;
 
 }
